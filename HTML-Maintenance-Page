@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Site Under Construction</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background-color: #F9FAFB;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    .logo {
+      max-width: 150px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      color: #104a85;
+      font-size: 32px;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 18px;
+      margin: 20px 0;
+    }
+    .social-links a {
+      display: inline-block;
+      margin: 10px;
+      text-decoration: none;
+      color: #4e7bcf;
+      font-weight: bold;
+    }
+    footer {
+      margin-top: 30px;
+      font-size: 14px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>A8Agent.com <br>Under Construction</h1>
+    <p>We’re working hard to bring you something amazing.<br>
+       Please check back soon!
+    <p>The A8Agent Hub Team</p>
+
+    <!-- ✅ Contact Links -->
+      
+      <a href="https://a8agent.com">https://a8agent.com</a> || <a href="mailto:support@a8agenthub.com">support@a8agenthub.com</a>
+    </div>
+
+    <footer>&copy; 2025 A8Agent </footer>
+  </div>
+</body>
+</html>
